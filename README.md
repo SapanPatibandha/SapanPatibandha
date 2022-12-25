@@ -27,6 +27,7 @@ Actively seeking to use expertise in system design, people management and analys
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapanpatibandha&show_icons=true&locale=en&layout=compact" alt="sapanpatibandha" /></p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sapanpatibandha)](https://github.com/anuraghazra/github-readme-stats)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
